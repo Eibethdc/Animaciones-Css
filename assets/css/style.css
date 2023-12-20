@@ -32,7 +32,7 @@ nav i{
 }
 header{
     grid-area: header;
-    background-image: url(/assets/img/header.jpg);
+    background-image: url(../img/header.jpg);
     background-size: cover;
     background-position: center;
 }
